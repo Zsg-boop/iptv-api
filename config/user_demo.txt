@@ -1,0 +1,96 @@
+📺央视频道,#genre#
+CCTV-1
+CCTV-2
+CCTV-3
+CCTV-4
+CCTV-5
+CCTV-5+
+CCTV-6
+CCTV-7
+CCTV-8
+CCTV-9
+CCTV-10
+CCTV-11
+CCTV-12
+CCTV-13
+CCTV-14
+CCTV-15
+CCTV-16
+CCTV-17
+CETV-1
+CETV-2
+CETV-3
+CETV-4
+
+📡卫视频道,#genre#
+广东卫视
+香港卫视
+浙江卫视
+湖南卫视
+北京卫视
+湖北卫视
+黑龙江卫视
+安徽卫视
+重庆卫视
+东方卫视
+东南卫视
+甘肃卫视
+广西卫视
+贵州卫视
+海南卫视
+河北卫视
+河南卫视
+吉林卫视
+江苏卫视
+江西卫视
+辽宁卫视
+内蒙古卫视
+宁夏卫视
+青海卫视
+山东卫视
+山西卫视
+陕西卫视
+四川卫视
+深圳卫视
+三沙卫视
+天津卫视
+西藏卫视
+新疆卫视
+云南卫视
+
+📡新闻英语,#genre#
+CNN International,https://cbsnews-us.akamaized.net/hls/live/2011105/CBSN_HD/master.m3u8
+BBC World News,https://cdn-ukwest.streamroot.io/out/v1/a6f2e5c0f7d84b0a8b3c9e1d2f4a5b6c/index.m3u8
+Sky News,https://skynews-ros-bb.skycdn.hls.adaptive.level3.net/bpk-tx/skynews/bb-mobile-1500-live-skynews-skynews-src-1080p.m3u8
+Al Jazeera English,https://live-hls-web-aja.getaj.net/VIVA_AJA/index.m3u8
+France 24 English,https://f24hls-i.akamaihd.net/hls/live/700164/f24-en-hi/master.m3u8
+NHK World Japan,https://nhkwlive-xjp.akamaized.net/hls/live/2003441/nhkwlive-xjp/index_1M.m3u8
+DW News,https://dwstreamdljh.akamaized.net/hls/live/2019522/dwstream/master.m3u8
+CBS News,https://cbsnews-us.akamaized.net/hls/live/2011110/CBSN_HD/master.m3u8
+ABC News Live,https://abcnews-streams.akamaized.net/hls/live/2023525/abcnewsnow_hls/master.m3u8
+
+📡谈话节目,#genre#
+Bloomberg Television,https://bloomberg-bloomberg-1-ca.samsung.wurl.tv/manifest/playlist.m3u8
+C-SPAN,https://cspan1-unl-1.digitalcontentreserve.com/cspan1/primary-audio.m3u8
+C-SPAN2,https://cspan2-unl-1.digitalcontentreserve.com/cspan2/primary-audio.m3u8
+CNBC,https://cnbc-cnbc-1-ca.samsung.wurl.tv/manifest/playlist.m3u8
+Fox Business,https://foxbusiness-foxbusiness-1-ca.samsung.wurl.tv/manifest/playlist.m3u8
+
+📡电影频道,#genre#
+Pluto TV Movies,https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e5b3e3b0f1b3b0001b3c3b1/master.m3u8?deviceId=web&deviceType=web&appName=web&appVersion=5.0.0
+FilmRise Movies,https://filmrise-filmrise-1-ca.samsung.wurl.tv/manifest/playlist.m3u8
+Comet TV (Sci-Fi),https://comet-comet-1-ca.samsung.wurl.tv/manifest/playlist.m3u8
+The Movie Hub,https://moviemax-moviemax-1-ca.samsung.wurl.tv/manifest/playlist.m3u8
+
+📡电视剧频道,#genre#
+Buzzr (Classic TV),https://buzzr-buzzr-1-ca.samsung.wurl.tv/manifest/playlist.m3u8
+Pluto TV Drama,https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e5b3e3b0f1b3b0001b3c3b2/master.m3u8?deviceId=web&deviceType=web&appName=web&appVersion=5.0.0
+GetTV (Movies & Series),https://gettv-gettv-1-ca.samsung.wurl.tv/manifest/playlist.m3u8
+MeTV Plus,https://metv-metv-1-ca.samsung.wurl.tv/manifest/playlist.m3u8
+
+📡动画频道,#genre#
+Cartoonito,https://cartoonito-cartoonito-1-ca.samsung.wurl.tv/manifest/playlist.m3u8
+Pluto TV Kids,https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e5b3e3b0f1b3b0001b3c3b3/master.m3u8?deviceId=web&deviceType=web&appName=web&appVersion=5.0.0
+Nick Jr.,https://nickjr-nickjr-1-ca.samsung.wurl.tv/manifest/playlist.m3u8
+PBS Kids,https://pbskids-pbskids-1-ca.samsung.wurl.tv/manifest/playlist.m3u8
+BabyTV,https://babytv-babytv-1-ca.samsung.wurl.tv/manifest/playlist.m3u8
