@@ -3,8 +3,9 @@
 # This is a list of subscription sources, with one subscription address per line
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
 
-
-
+https://live.fanmingming.com/tv/m3u/itv.m3u
+https://tv.iill.top/m3u/Gather
+https://live.fanmingming.com/tv/m3u/ipv6.m3u
 
 
 [WHITELIST]
